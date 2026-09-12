@@ -13,7 +13,7 @@ export const contact = {
   phone: "+91 70195 75272",
   linkedin: "https://www.linkedin.com/in/yash-rane701988378",
   github: "https://github.com/yashrane1810",
-  resumeFile: "/resume_YR.pdf",
+  resumeFile: "/Yash_Rane_Resume.pdf",
 };
 
 export const experience = [
