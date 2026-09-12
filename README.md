@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Yash Rane — Portfolio
 
 A React + Vite portfolio built from your resume, styled around an API/backend
@@ -52,3 +53,6 @@ file (keep the same name) whenever you update your résumé, and the
 - AI-Based Silent Communication System for ICU Patients → `https://github.com/yashrane1810/mute-patient-assistant-mouse`
 - RiskGuard Company Website Enhancement has no public repo, so it's shown
   without a link — add one in `portfolioData.js` if it becomes public.
+=======
+# yashrane_portfolio
+>>>>>>> 9f4ece4ce216657f1d7325b409427092332e2cf8
